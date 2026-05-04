@@ -1,0 +1,8 @@
+{
+  "name": "Robot Miner Epic",
+  "description": "Robot Miner NFT from TROCK ecosystem.",
+  "image": "https://raw.githubusercontent.com/alfredins787-bit/trock-nft-assets/main/images/epic.jpg",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}
